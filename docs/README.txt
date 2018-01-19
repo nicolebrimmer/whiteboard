@@ -1,5 +1,6 @@
 Whiteboard
-==
+===
+
 Client-server application that allows multiple users to create and simultaneously modify whiteboards.
 
 
